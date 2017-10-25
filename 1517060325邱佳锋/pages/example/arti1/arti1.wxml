@@ -1,0 +1,31 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">魔鬼鱼</view>
+                    <view class="weui-article__p">
+                       “魔鬼鱼”是一种庞大的热带鱼类，学名叫前口蝠鲼。它的个头和力气常使潜水员害怕，因为只要它发起怒来，只需用它那强有力的“双翅”一拍，就会碰断人的骨头，致人于死地。所以人们叫它“魔鬼鱼”。有的时候蝠鲼用它的头鳍把自己挂在小船的锚链上，拖着小船飞快地在海上跑来跑去，使渔民误以为这是“魔鬼”在作怪，实际上是蝠鲼的恶作剧。 
+　“魔鬼鱼”喜欢成群游泳，有时潜栖海底，有时雌雄成双成对升至海面。在繁殖季节，蝠鲼有时用双鳍拍击水面，跃起腾空，能跃出水面，在离水一人多高的上空“滑翔“，落水时，声响犹如打炮，波及数里，非常壮观。 
+　　蝠鲼看上去令人生畏，其实它是很温和的，仅以甲壳动物或成群的小鱼小虾为食。在它的头上长着两只肉足，是它的头鳍，头鳍翻着向前突出，可以自由转动，蝠鲼就是用这对头鳍来驱赶食物，并把食物拨入口内吞食。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/魔鬼鱼.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/魔鬼鱼1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

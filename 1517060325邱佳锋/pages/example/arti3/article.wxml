@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">狮子鱼</view>
+                    <view class="weui-article__p">
+                    鲉形目(Scorpaeniformes)圆鳍鱼科(Cyclopteridae,有时另行独立为狮子鱼科〔Liparidae〕)约115种海生鱼类的统称。动物界，体型小，最大约30公分(12吋)长。体长形，柔软，蝌蚪状；皮肤松弛，无鳞，而有时具小刺。背鳍长，腹鳍于头下，形成吸盘，用以吸附海底。分布于北大西洋、北太平洋及南北极冷水区。有些种，如北大西洋的狮子鱼(Liparis liparis)，生活于沿岸，另些，头肛狮子鱼属(Careproctus)的粉红色种类栖居于深海。蓑鲉又称狮子鱼，鲉形目鲉科蓑鲉属鱼类的通称。约有9种。中国产5种 分布于印度-西太平洋暖水海域，为小型海洋鱼类。栖息于岩礁或珊瑚丛中，有的见于深水 。常成对游泳，遇敌时，即侧身以背鳍鳍棘向对方冲刺。鳍棘具毒腺，人被刺后剧痛，严重者呼吸困难，甚至晕厥。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/狮子鱼.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/狮子鱼1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

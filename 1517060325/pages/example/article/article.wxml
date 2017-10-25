@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">孔雀鱼</view>
+                    <view class="weui-article__p">
+                       孔雀花鳉，俗称孔雀鱼，原产于南美洲的委内瑞拉、圭亚那、西印度群岛、巴西北部等地，作为观赏用鱼引入新加坡、中国台湾和内地，现已繁衍分布于部分热带地区的河川下游及湖沼、沟渠中，其野生栖地呈现多样化，主要栖息于淡水流域及湖沼。其繁殖能力很强，并能耐受污染的水域，具群集性。孔雀鱼性情温和，能与温和的中小性型热带鱼混养，平时活泼好动，孔雀鱼的寿命较短。基本上分成几种基本品系礼服、马赛克、草尾、剑尾、金属、蛇王。孔雀花鳉为杂食性小型鱼种，由于孔雀鱼对环境的适应能力十分强韧，所以分布广泛。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/孔雀鱼.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/孔雀鱼1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

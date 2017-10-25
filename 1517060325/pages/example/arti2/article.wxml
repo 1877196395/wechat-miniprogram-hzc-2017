@@ -1,0 +1,31 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">石斑鱼</view>
+                    <view class="weui-article__p">
+                       黑猫鱼即石斑鱼，沿海当地居民俗称。生活在海边石头缝隙，有海中鲤鱼之称，实际上食用价值和味道高于鲤鱼。比常见鱼类价格偏贵。
+石斑鱼，属鲈形目，体长椭圆形稍侧扁。口大，具辅上颌骨，牙细尖，有的扩大成犬牙。体被小栉鳞，有时常埋于皮下。背鳍和臀鳍棘发达，尾鳍圆形或凹形，体色变异甚多，常呈褐色或红色，并具条纹和斑点，为暖水性的大中型海产鱼类。
+石斑鱼营养丰富，肉质细嫩洁白，类似鸡肉，素有“海鸡肉”之称。石斑鱼又是一种低脂肪、高蛋白的上等食用鱼，被港澳地区推为中国四大名鱼之一。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/石斑鱼.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/石斑鱼1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
